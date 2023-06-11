@@ -128,7 +128,7 @@
                     </li>
                     <li class="clearfix">
                         <span>
-                        <a href="5star.php">3 Star</a>
+                        <a href="3star.php">3 Star</a>
                         </span>
                         <div class="value">
                             <a href="#">Maple Leaf Hotel & Resorts</a>
@@ -368,7 +368,7 @@
 
 
 
-    <div class="clearfix page_margin_top">
+    <div class="clearfix page_margin_top" style='margin-top:100px'>
 
         <ul class="tabs_navigation isotope_filters page_margin_top clearfix">
             <li>
