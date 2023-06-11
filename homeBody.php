@@ -111,7 +111,7 @@
                 <ul class="items_list thin dark_blue opening_hours dropdown-content"   id="type-dropdown">
                     <li class="clearfix">
                         <span>
-                        <a href="5star.php">5 Star</a>
+                        <a href="5star.php" style='color:white'>5 Star</a>
                         </span>
                         <div class="value">
                             <a href="https://www.marriott.com/en-us/hotels/dacbr-renaissance-dhaka-gulshan-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_blank">Renaissance Dhaka Gulshan Hotel</a>
@@ -119,7 +119,7 @@
                     </li>
                     <li class="clearfix">
                         <span>
-                        <a href="5star.php">4 Star</a>
+                        <a href="5star.php" style='color:white'>4 Star</a>
                         </span>
                         <div class="value">
                             <a href="https://www.uhrlbd.com/" target="_blank">Unique Hotel & Resorts</a>
@@ -128,7 +128,7 @@
                     </li>
                     <li class="clearfix">
                         <span>
-                        <a href="3star.php">3 Star</a>
+                        <a href="3star.php" style='color:white'>3 Star</a>
                         </span>
                         <div class="value">
                             <a href="#">Maple Leaf Hotel & Resorts</a>
@@ -136,7 +136,7 @@
                     </li>
                     <li class="clearfix">
                         <span>
-                        <a href="5star.php">2 Star</a>
+                        <a href="5star.php" style='color:white'>2 Star</a>
                         </span>
                         <div class="value">
                             <a href="5star.php">Asian SR Hotel</a>
@@ -144,7 +144,7 @@
                     </li>
                     <li class="clearfix">
                         <span>
-                        <a href="5star.php">Others</a>
+                        <a href="5star.php" style='color:white'>Others</a>
                         </span>
                         <div class="value">
                             <a href="#">Western Plus Hotel</a>
